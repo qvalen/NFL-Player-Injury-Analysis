@@ -1,8 +1,12 @@
 # NFL-Player-Injury-Analysis
 Power BI dashboard exploring NFL player injury trends (2012–2022).
 
+## NFL Dashboard
 
-# 🏈 NFL Player Injury Analysis (2012–2022)
+[![NFL Dashboard](nfl%20dashboard.PNG)](https://app.powerbi.com/links/PeIUCet0Jo?ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab&pbi_source=linkShare)
+
+**[View my Power BI dashboard](https://app.powerbi.com/links/PeIUCet0Jo?ctid=f419c9fe-f7b0-4d87-bee8-e8dfb2190cab&pbi_source=linkShare)**
+
 
 ## 📖 Overview
 This Power BI dashboard explores injury trends among NFL players from 2012 to 2022.  
